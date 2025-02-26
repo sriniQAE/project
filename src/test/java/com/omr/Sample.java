@@ -14,4 +14,16 @@ public class Sample {
 		System.out.println("Hello");
 	}
 
+	public void tamilNadu() {
+		System.out.println("TN");
+	}
+
+	public void coimbatore() {
+		System.out.println("CBE");
+	}
+
+	public void cerala() {
+		System.out.println("KA");
+	}
+
 }
