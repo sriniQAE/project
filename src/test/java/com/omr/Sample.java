@@ -24,6 +24,19 @@ public class Sample {
 
 	public void cerala() {
 		System.out.println("KA");
+
+	}
+
+	public void sky() {
+		System.out.println("Blue");
+	}
+
+	public void rain() {
+		System.out.println("Water");
+	}
+
+	public void thunder() {
+		System.out.println("Electricity");
 	}
 
 }
