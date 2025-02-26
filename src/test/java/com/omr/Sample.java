@@ -14,4 +14,16 @@ public class Sample {
 		System.out.println("Hello");
 	}
 
+	public void sky() {
+		System.out.println("Blue");
+	}
+
+	public void rain() {
+		System.out.println("Water");
+	}
+
+	public void thunder() {
+		System.out.println("Electricity");
+	}
+
 }
